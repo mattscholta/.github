@@ -45,3 +45,10 @@
     </p>
   </div>
 </div>
+
+<!--
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+-->
