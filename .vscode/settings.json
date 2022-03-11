@@ -1,0 +1,14 @@
+{
+  "cSpell.words": [],
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "git.enabled": true,
+  "turboConsoleLog.quote": "`",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#FD5A1E",
+    "titleBar.activeForeground": "#27251F"
+  }
+}
