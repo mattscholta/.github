@@ -12,8 +12,6 @@
   </blockquote>
 </div>
 
------
-
 <br>
 <br>
 
