@@ -1,7 +1,7 @@
 <div align="center">
   <br>
   <a href="https://barguide.io" target="_blank">
-    <img height="120" src="https://mattscholta.com/images/logo.svg" />
+    <img height="120" src="https://2021.mattscholta.com/images/logo.svg" />
   </a>
   <h1>
     <a href="https://mattscholta.com" target="_blank">MattScholta</a>
