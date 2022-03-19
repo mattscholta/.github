@@ -12,6 +12,7 @@
   </blockquote>
 </div>
 
+<!--  
 <br>
 <br>
 
@@ -46,9 +47,4 @@
   </div>
 </div>
 
-<!--
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 -->
